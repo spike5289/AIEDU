@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "BrightProspect"
+name = "AIEDU"
 version = "0.1.0"
 description = ""
 authors = ["DrWhiteCloudAI <yenphan1@outlook.com>"]
